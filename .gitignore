@@ -1,0 +1,17 @@
+build/
+out/
+*.o
+*.a
+*.so
+*.vcd
+*.fst
+*.log
+*.jou
+*.wdb
+*.vvp
+obj_dir/
+__pycache__/
+.pytest_cache/
+.DS_Store
+.vscode/
+.idea/
